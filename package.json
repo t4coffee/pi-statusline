@@ -1,0 +1,12 @@
+{
+  "name": "pi-statusline",
+  "version": "0.1.0",
+  "description": "Two-line Pi status footer: context, tokens, cwd, cost, model, effort, git branch, plus the skills and extensions currently in use",
+  "keywords": ["pi-package", "statusline", "footer"],
+  "license": "MIT",
+  "peerDependencies": {
+    "@earendil-works/pi-ai": "*",
+    "@earendil-works/pi-coding-agent": "*",
+    "@earendil-works/pi-tui": "*"
+  }
+}
